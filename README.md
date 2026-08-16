@@ -18,12 +18,9 @@ Ez a repó egy rövid bemutató a projektről; a tényleges forráskód más hel
 
 ## Screenshotok
 
-<!-- Húzd be ide a képeket a GitHub szerkesztőben, pl.:
-![Főoldal](screenshots/home.png)
-![Tea szál — Tang-kor](screenshots/tea-tang.png)
-![Kardok szál — sötét mód](screenshots/kardok-dark.png)
--->
-*(hamarosan)*
+![...](screenshots/selyemut-showcase-1.webp)
+![...](screenshots/selyemut-showcase-2.webp)
+![...](screenshots/selyemut-showcase-3.webp)
 
 ## Miről szól
 
