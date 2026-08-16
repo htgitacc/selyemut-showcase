@@ -7,10 +7,22 @@ tudástár, amely négy szálon — **Tea, Kardok, Öltözködés, Kalligráfia*
 végig hét történelmi korszakot a Shang-dinasztiától napjainkig, mindig elválasztva
 a dokumentált történelmet a szájhagyománytól.
 
+> 🚧 **Az oldal folyamatosan bővül** — új korszakok, képek és tartalmi finomítások
+> rendszeresen kerülnek fel.
+>
+> 🤖 A tartalom kutatása, szerkesztése és a kód nagy része **AI-asszisztált munka**
+> (Claude Code), emberi kurátori felügyelettel — minden forrás és legenda jelölve,
+> forráskritikával kezelve.
+
 Ez a repó egy rövid bemutató a projektről; a tényleges forráskód más helyen él.
 
 ## Screenshotok
 
+<!-- Húzd be ide a képeket a GitHub szerkesztőben, pl.:
+![Főoldal](screenshots/home.png)
+![Tea szál — Tang-kor](screenshots/tea-tang.png)
+![Kardok szál — sötét mód](screenshots/kardok-dark.png)
+-->
 *(hamarosan)*
 
 ## Miről szól
